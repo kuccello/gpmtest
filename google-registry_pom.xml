@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registry>
+  <modelVersion>1.0.0</modelVersion>
+  <groupId>com.google.unity.registry</groupId>
+  <artifactId>unity-plugin-registry</artifactId>
+  <version>1</version>
+
+  <modules>
+    <module>foo-module</module>
+  </modules>
+</registry>
