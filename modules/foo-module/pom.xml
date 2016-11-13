@@ -3,6 +3,7 @@
   <modelVersion>1.0.0</modelVersion>
   <groupId>com.krispy.unity</groupId>
   <artifactId>foo-plugin</artifactId>
+  <packaging>unitypackage</packaging>
   <versioning>
     <release>8.1.0</release>
     <versions>
